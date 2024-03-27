@@ -1,0 +1,14 @@
+
+
+# MaritalStatus6de928ab1284100059b4fc2c983801e9AllOf
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**location** | [**Location6de928ab1284100059cd755321a501f1**](Location6de928ab1284100059cd755321a501f1.md) |  |  [optional] |
+|**descriptor** | **String** | A preview of the instance |  [optional] |
+
+
+

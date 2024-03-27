@@ -1,0 +1,13 @@
+
+
+# LocationAaeb64c958b2100011f0c7fc94120224AllOf
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**descriptor** | **String** | A preview of the instance |  [optional] |
+
+
+
